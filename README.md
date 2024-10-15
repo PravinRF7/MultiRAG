@@ -15,7 +15,7 @@ This project is a multimodal Retrieval-Augmented Generation (RAG) application th
 
 1. **Clone the Repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/PravinRF7/MultiRAG.git
    cd project_folder
    ```
 
